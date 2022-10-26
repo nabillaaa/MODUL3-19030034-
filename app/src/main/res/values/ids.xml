@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="B1" type="id" />
+    <item name="B2" type="id" />
+    <item name="ResetB" type="id" />
+    <item name="ResetA" type="id" />
+    <item name="B3" type="id" />
+    <item name="A1" type="id" />
+    <item name="A2" type="id" />
+    <item name="A3" type="id" />
+    <item name="tv_TimA" type="id" />
+    <item name="SkorA" type="id" />
+    <item name="SkorB" type="id" />
+    <item name="tv_TimB" type="id" />
+</resources>
